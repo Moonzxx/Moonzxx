@@ -1,5 +1,3 @@
-
-
 ### Hi there, I'm Munirah aka Moon
 
 ## I'm a Student, currently an undergraduate.
@@ -36,5 +34,27 @@
 
 
 
-<a href="https://github-readme-stats.Moonzxx.vercel.app/api?username=Moonzxx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical"><img align="center" alt="Moonzxx's Github Stats" src="https://github-readme-stats.Moonzxx.vercel.app/api?username=Moonzxx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical /"></a>
+
+
+### Github Stats
+
+
+
+#### Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/Moonzxx/count.svg)
+
+#### Moonzxx's Github Stats
+
+[![Moonzxx's Github Stats](https://github-readme-stats.vercel.app/api?username=Moonzxx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=Moonzxx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
+
+#### Moonxx's Language Stats
+
+[![Moonzxx's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Moonzxx&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api?username=Moonzxx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
+
+
+
+
+
+
 
