@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm Munirah aka Moon
 
-<!--
-**Moonzxx/Moonzxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student, currently an undergraduate.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+- 🔭 I’m currently working on my final year project
+- 🌱 I’m currently pursuing a degree in Computer Science
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love to play football, puzzles and read true crime!
+
+
+
+
+
+```
+<a href="https://github-readme-stats.moonzxx.vercel.app/api?username=Moonzxx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
+<img align="center" alt="Moon's Github Stats" src="https://github-readme-stats.Moonzxx.vercel.app/api?username=Moonzxx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github-readme-stats.Moonzxx.vercel.app/api/top-langs/?username=Moonzxx&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.Moonzxx.vercel.app/api/top-langs/?username=Moonzxx&layout=compact&theme=radical" />
+</a>
+```
+
