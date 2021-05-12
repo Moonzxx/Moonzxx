@@ -1,3 +1,5 @@
+
+
 ### Hi there, I'm Munirah aka Moon
 
 ## I'm a Student, currently an undergraduate.
@@ -16,12 +18,23 @@
 
 
 
-```markdown
-<a href="https://github-readme-stats.Moonzxx.vercel.app/api?username=Moonzxx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="Moon's Github Stats" src="https://github-readme-stats.Moonzxx.vercel.app/api?username=Moonzxx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+### Languages and Tools
 
-<a href="https://github-readme-stats.Moonzxx.vercel.app/api/top-langs/?username=Moonzxx&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.Moonzxx.vercel.app/api/top-langs/?username=Moonzxx&layout=compact&theme=radical" />
-</a>
-```
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+
+
+
+
+
+
+
+### Connect with Me
+
+
+
+
+
+<a href="https://github-readme-stats.Moonzxx.vercel.app/api?username=Moonzxx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical"><img align="center" alt="Moonzxx's Github Stats" src="https://github-readme-stats.Moonzxx.vercel.app/api?username=Moonzxx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical /"></a>
 
