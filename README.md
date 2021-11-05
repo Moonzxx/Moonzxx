@@ -8,7 +8,7 @@
 - 🌱 I’m currently pursuing a degree in Computer Science
 
 - 💬 Ask me about ...
-- 📫 How to reach me: 
+- 📫 How to reach me: You can email me at munirahbtemohamad@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to play football, puzzles and read true crime!
 
