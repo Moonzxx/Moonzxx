@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on my final year project
+- 🔭 I’m currently working on my final year project (University Wellbeing Mobile Application)
 - 🌱 I’m currently pursuing a degree in Computer Science
 
 - 💬 Ask me about ...
@@ -21,11 +21,15 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
 
-
-
-
+<details>
+<summary> More Skills</summary>
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+</details>
 
 
 ### Connect with Me
