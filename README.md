@@ -11,6 +11,7 @@
 - 📫 How to reach me: You can email me at munirahbtemohamad@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to play football, puzzles and read true crime!
+- 🤝🏻 Connect with me on Linkedin &nbsp; <a href="https://www.linkedin.com/in/munirah-bte-mohamad/"><img src="https://img.shields.io/badge/-Munirah%20Mohamad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 
 
