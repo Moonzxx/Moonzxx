@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on my final year project (University Wellbeing Mobile Application)
-- 🌱 I’m currently pursuing a degree in Computer Science
+- 🔭 I enjoy Digital Forensics, e-Discovery, and Cyber Security
+- 🌱 I’m currently working in a Forensics-related field
 
 - 💬 Ask me about ...
 - 📫 How to reach me: You can email me at munirahbtemohamad@gmail.com
