@@ -4,10 +4,10 @@
 
 
 
-- 🔭 I enjoy Digital Forensics, e-Discovery, and Cyber Security
+- 🔭 I enjoy Digital Forensics, e-Discovery, and participating in CTFs
 - 🌱 I’m currently working in a Forensics-related field
 
-- 💬 Ask me about ...
+- 💬 Ask me about Digital Forensics
 - 📫 How to reach me: You can email me at munirahbtemohamad@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to play football, puzzles and read true crime!
