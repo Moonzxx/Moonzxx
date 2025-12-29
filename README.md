@@ -1,7 +1,8 @@
 ### Hi there, I'm Munirah aka Moon
 
-## I'm a Student, currently an undergraduate.
+## I am a Digital Forensic Consultant. 
 
+## I graduated from Nanyang Technological University in Singapore with Bachelors in Computer Science. I special
 
 
 - 🔭 I enjoy Digital Forensics, e-Discovery, and participating in CTFs
