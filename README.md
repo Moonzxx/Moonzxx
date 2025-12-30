@@ -1,4 +1,7 @@
-# Hi I'm Munirah! Welcome to My Portfolio
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f75c7e&width=500&lines=Digital+Forensics+%26+eDiscovery+Consultant;Always+learning+new+things" alt="Typing SVG" /></a>
+
+# Hi I'm Munirah! Welcome to My Portfolio <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 I’m Munirah, a digital forensics practitioner with a Bachelor’s degree in Computer Science, specializing in Data Analytics and Cybersecurity. My journey into digital forensics has been driven by a strong interest in investigative problem-solving, hands-on forensic analysis, and CTF-style challenges.
 
