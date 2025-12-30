@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f75c7e&width=500&lines=Digital+Forensics+%26+eDiscovery+Consultant;Always+learning+new+things" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f75c7e&width=500&lines=Digital+Forensics+%26+eDiscovery+Consultant;Always+learning+new+things" alt="Typing SVG" /></a></p>
+
 # Hi I'm Munirah! Welcome to My Portfolio <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
