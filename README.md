@@ -1,14 +1,23 @@
-### Hi there, I'm Munirah aka Moon
+# Hi I'm Munirah! Welcome to My Portfolio
 
-## I am a Digital Forensic Consultant. 
+I’m Munirah, a digital forensics practitioner with a Bachelor’s degree in Computer Science, specializing in Data Analytics and Cybersecurity. My journey into digital forensics has been driven by a strong interest in investigative problem-solving, hands-on forensic analysis, and CTF-style challenges.
 
-## I graduated from Nanyang Technological University in Singapore with Bachelors in Computer Science. I special
+I have practical experience using industry-standard tools such as EnCase Forensics, Oxygen Forensics, Forensic Toolkit (FTK), and Magnet AXIOM, and I focus on applying sound forensic methodology, evidence integrity, and clear documentation throughout my work.
+
+I am eager to connect with professionals in digital forensics and cybersecurity. Feel free to reach out via email or LinkedIn. Thank you for visiting, and I hope you find my work insightful and informative.
+
+Best Regards,
+Munirah Mohamad
+
+<a href="https://www.linkedin.com/in/munirah-bte-mohamad/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
 
 
 - 🔭 I enjoy Digital Forensics, e-Discovery, and participating in CTFs
 - 🌱 I’m currently working in a Forensics-related field
 
-- 💬 Ask me about Digital Forensics
+- 💬 Ask me about Digital Forensics and e-Discovery
 - 📫 How to reach me: You can email me at munirahbtemohamad@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to play football, puzzles and read true crime!
@@ -17,6 +26,25 @@
 
 
 
+
+
+
+
+## 👩🏻‍💻 Work Experience:
+
+## 📜 Certifications:
+
+### 🤳 Connect with Me:
+
+
+
+
+
+
+
+### Github Stats
+
+<!--
 
 ### Languages and Tools
 
@@ -40,16 +68,8 @@
 </details>
 
 
-### Connect with Me
 
-
-
-
-
-
-
-### Github Stats
-
+-->
 
 
 #### Visitor Count
