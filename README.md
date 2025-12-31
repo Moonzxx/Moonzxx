@@ -16,18 +16,6 @@ Munirah Mohamad
 
 
 
-
-- 🔭 I enjoy Digital Forensics, e-Discovery, and participating in CTFs
-- 🌱 I’m currently working in a Forensics-related field
-
-- 💬 Ask me about Digital Forensics and e-Discovery
-- 📫 How to reach me: You can email me at munirahbtemohamad@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love to play football, puzzles and read true crime!
-
-
-
-
 ## 👩🏻‍💻 Work Experience:
 
 ## 📜 Certifications:
@@ -81,6 +69,13 @@ If you’re interested in hiring or discussing Digital Forensics and eDiscovery:
 #### Moonxx's Language Stats
 
 [![Moonzxx's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Moonzxx&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api?username=Moonzxx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
+
+
+- 🔭 I enjoy Digital Forensics, e-Discovery, and participating in CTFs
+- 🌱 I’m currently working in a Forensics-related field
+- 💬 Ask me about Digital Forensics and e-Discovery
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love to play football, puzzles and read true crime!
 
 -->
 
