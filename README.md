@@ -32,7 +32,11 @@ Munirah Mohamad
 
 ## 📜 Certifications:
 
-### 🤳 Connect with Me:
+## 🤳 Connect with Me:
+
+If you’re interested in hiring or discussing Digital Forensics and eDiscovery:
+
+📧 Email: munirahbtemohamad@gmail.com
 
 
 
@@ -40,7 +44,6 @@ Munirah Mohamad
 
 
 
-### Github Stats
 
 <!--
 
@@ -65,10 +68,7 @@ Munirah Mohamad
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 </details>
 
-
-
--->
-
+### Github Stats
 
 #### Visitor Count
 
@@ -81,6 +81,11 @@ Munirah Mohamad
 #### Moonxx's Language Stats
 
 [![Moonzxx's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Moonzxx&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api?username=Moonzxx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical)
+
+-->
+
+
+
 
 
 
